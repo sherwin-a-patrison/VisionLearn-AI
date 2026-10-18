@@ -1,0 +1,7 @@
+{
+  "name": "VisionLearn AI",
+  "description": "A multi-modal adaptive learning platform designed for visually impaired learners, powered by AI-driven personalization and conversational voice assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
